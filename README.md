@@ -1,6 +1,6 @@
 ### Olá, eu sou o José Júnior!
 
-- 🌱 Estudante de Testes de Software
+- 🌱 Estudante de Qualidade de Software
   
 <div>
   <a href="https://github.com/JoseJunior07">
